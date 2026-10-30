@@ -1,6 +1,6 @@
 import requests
 
-KEY = "AQ.Ab8RN6JWijIVFsgAcE7szfwmlHmjx3awN5g_YgdIgpwf9kN18w"
+KEY = "AQ.Ab8RN6JLUNii5T4pDVCErAJ5RjvkUyVBk9drja7Xucsu6dCg4g"
 r = requests.get(
     "https://generativelanguage.googleapis.com/v1beta/models",
     headers={"x-goog-api-key": KEY},
