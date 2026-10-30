@@ -3,7 +3,7 @@ import requests
 from datetime import date, timedelta
 
 FOOTBALL_KEY = "3cb2e6b66f4f47a59f5168969681d2f6"
-GEMINI_KEY = "AQ.Ab8RN6JWijIVFsgAcE7szfwmlHmjx3awN5g_YgdIgpwf9kN18w"
+GEMINI_KEY = "AQ.Ab8RN6JLUNii5T4pDVCErAJ5RjvkUyVBk9drja7Xucsu6dCg4g"
 
 FB = "https://api.football-data.org/v4"
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
